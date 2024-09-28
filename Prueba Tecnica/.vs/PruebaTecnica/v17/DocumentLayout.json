@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\dto\\userdbalterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:dto\\userdbalterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\dto\\userdbreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:dto\\userdbreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\pruebatecnica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:pruebatecnica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\pruebatecnica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:pruebatecnica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,40 +63,8 @@
       "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,24 +73,16 @@
     {
       "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\pruebatecnica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:pruebatecnica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|c:\\repositorios\\trabajo\\prueba tecnica 2\\pruebatecnica2\\prueba tecnica\\readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{923B6E71-FFD9-4B3F-8DF9-C42D64436DF2}|PruebaTecnica.csproj|solutionrelative:readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 213,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,62 +97,83 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateUserDto.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Dto\\UpdateUserDto.cs",
-              "RelativeDocumentMoniker": "Dto\\UpdateUserDto.cs",
-              "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Dto\\UpdateUserDto.cs",
-              "RelativeToolTip": "Dto\\UpdateUserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "DocumentIndex": 8,
+              "Title": "UserDbReadDto.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Dto\\UserDbReadDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDbReadDto.cs",
+              "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Dto\\UserDbReadDto.cs",
+              "RelativeToolTip": "Dto\\UserDbReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:33:23.574Z"
+              "WhenOpened": "2024-09-28T21:19:00.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "UserDbAlterDto.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Dto\\UserDbAlterDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDbAlterDto.cs",
+              "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Dto\\UserDbAlterDto.cs",
+              "RelativeToolTip": "Dto\\UserDbAlterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:18:05.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PruebaTecnica",
+              "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\PruebaTecnica.csproj",
+              "RelativeDocumentMoniker": "PruebaTecnica.csproj",
+              "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\PruebaTecnica.csproj",
+              "RelativeToolTip": "PruebaTecnica.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T05:39:56.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T05:52:42.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Service\\UserService.cs",
               "RelativeDocumentMoniker": "Service\\UserService.cs",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Service\\UserService.cs",
               "RelativeToolTip": "Service\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAIwHUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T05:42:45.189Z"
+              "WhenOpened": "2024-09-26T05:42:45.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Repository\\UserRepository.cs",
               "RelativeToolTip": "Repository\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T05:30:31.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T05:30:31.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Interfaces\\Repository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\Repository\\IUserRepository.cs",
@@ -161,81 +186,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Interfaces\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "Interfaces\\Services\\IUserService.cs",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Interfaces\\Services\\IUserService.cs",
               "RelativeToolTip": "Interfaces\\Services\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T05:25:37.128Z"
+              "WhenOpened": "2024-09-26T05:25:37.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Dto\\UserDto.cs",
-              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
-              "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Dto\\UserDto.cs",
-              "RelativeToolTip": "Dto\\UserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T05:10:31.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T05:06:19.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Data\\DataContext.cs",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Data\\DataContext.cs",
               "RelativeToolTip": "Data\\DataContext.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAIwBIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T05:05:41.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Response\\ApiResponse.cs",
               "RelativeDocumentMoniker": "Response\\ApiResponse.cs",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Response\\ApiResponse.cs",
               "RelativeToolTip": "Response\\ApiResponse.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T04:58:14.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T04:58:14.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-26T04:48:07.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -243,19 +256,21 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-09-26T04:20:08.776Z"
+              "WhenOpened": "2024-09-26T04:20:08.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "PruebaTecnica.csproj",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\PruebaTecnica.csproj",
               "RelativeDocumentMoniker": "PruebaTecnica.csproj",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\PruebaTecnica.csproj",
               "RelativeToolTip": "PruebaTecnica.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-26T04:17:10.656Z"
+              "WhenOpened": "2024-09-26T04:17:10.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -265,27 +280,27 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAXAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T16:41:14.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Mapping\\MappingProfile.cs",
               "RelativeToolTip": "Mapping\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T16:40:03.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ContextDb.cs",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Data\\ContextDb.cs",
               "RelativeDocumentMoniker": "Data\\ContextDb.cs",
@@ -297,13 +312,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Repositorios\\Trabajo\\Prueba Tecnica 2\\PruebaTecnica2\\Prueba Tecnica\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-03T16:39:01.515Z"
             }

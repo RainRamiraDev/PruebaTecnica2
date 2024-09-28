@@ -15,7 +15,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ContextDb>(options =>
 {
     options.UseMySql(builder.Configuration.GetConnectionString("ConexionDatabase"),
-                     new MySqlServerVersion(new Version(9, 0, 0)));
+                     new MySqlServerVersion(new Version(8, 0, 39)));
 });
 
 builder.Services.AddScoped<IUserRepository, UserRepository>();

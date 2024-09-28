@@ -23,14 +23,14 @@ namespace PruebaTecnica.Service
 
        
 
-        public async Task<ApiResponse<List<UserDto>>> GetAll()
+        public async Task<ApiResponse<List<UserDbReadDto>>> GetAll()
        {
-           var response = new ApiResponse<List<UserDto>>();
+           var response = new ApiResponse<List<UserDbReadDto>>();
 
            try
            {
                var users = await _userRepository.GetAll();
-               var usersDto = _mapper.Map<List<UserDto>>(users);
+               var usersDto = _mapper.Map<List<UserDbReadDto>>(users);
 
                if (users.Count == 0)
                {
@@ -50,9 +50,9 @@ namespace PruebaTecnica.Service
 
      
 
-       public async Task<ApiResponse<UserDto>> GetById(int id)
+       public async Task<ApiResponse<UserDbReadDto>> GetById(int id)
        {
-           var response = new ApiResponse<UserDto>();
+           var response = new ApiResponse<UserDbReadDto>();
 
            try
            {
@@ -63,7 +63,7 @@ namespace PruebaTecnica.Service
                    return response;
                }
 
-               var userDto = _mapper.Map<UserDto>(user);
+               var userDto = _mapper.Map<UserDbReadDto>(user);
                response.Data = userDto;
                return response;
            }
@@ -74,39 +74,37 @@ namespace PruebaTecnica.Service
            }
        }
 
-       
 
-       public async Task<ApiResponse<UserDto>> Post(UserDto userDto)
-       {
-           var response = new ApiResponse<UserDto>();
 
-           try
-           {
-               var user = _mapper.Map<User>(userDto);
-               await _userRepository.Post(user);
-               response.Data = userDto;
-               return response;
-           }
-           catch (Exception e)
-           {
-               response.SetError(e.Message, HttpStatusCode.BadRequest);
-               return response;
-           }
-       }
-
-        public async Task<User> Update(int id, UpdateUserDto usuarioDto)
+        public async Task<ApiResponse<UserDbReadDto>> Post(UserDbAlterDto userDto)
         {
-            // Buscar el usuario existente por id
+            var response = new ApiResponse<UserDbReadDto>();
+            try
+            {
+                var user = _mapper.Map<User>(userDto);
+                await _userRepository.Post(user);
+                var userReadDto = _mapper.Map<UserDbReadDto>(user);
+                response.Data = userReadDto;
+                response.Success = true;
+                return response;
+            }
+            catch (Exception e)
+            {
+                response.SetError(e.Message, HttpStatusCode.BadRequest);
+                return response;
+            }
+        }
+
+        public async Task<User> Update(int id, UserDbAlterDto usuarioDto)
+        {
             var existingUser = await _userRepository.GetById(id);
             if (existingUser == null)
             {
                 throw new Exception("User not found");
             }
 
-            // Mapear las propiedades de usuarioDto a existingUser
             _mapper.Map(usuarioDto, existingUser);
 
-            // Guarda los cambios en el repositorio
             return await _userRepository.Update(existingUser);
         }
 
