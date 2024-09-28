@@ -15,7 +15,7 @@ namespace PruebaTecnica.Repository
             _context = context;
         }
 
-
+    
         public async Task<List<User>> GetAll()
         {
             var Usuarioss = await _context.Usuarios
@@ -23,7 +23,7 @@ namespace PruebaTecnica.Repository
             return Usuarioss;
         }
 
-    
+
         public async Task<User> GetById(int id)
         {
             var Usuarios = await _context.Usuarios

@@ -9,9 +9,8 @@ namespace PruebaTecnica.Mapping
     {
         public MappingProfile() {
 
-            CreateMap<User, UserDbReadDto>().ReverseMap();
-            CreateMap<UserDbAlterDto, User>().ReverseMap();
-            CreateMap<UserDbAlterDto, UserDbReadDto>().ReverseMap();
+            CreateMap<User, UserDto>().ReverseMap();
+            CreateMap<UpdateUserDto, User>().ReverseMap();
 
         }
 

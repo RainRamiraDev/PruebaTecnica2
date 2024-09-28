@@ -45,7 +45,7 @@ namespace PruebaTecnica.Controllers
         }
 
         [HttpPost("Post")]
-        public async Task<IActionResult> Post([FromBody] UserDbAlterDto userDto)
+        public async Task<IActionResult> Post([FromBody] UserDto userDto)
         {
             var response = await _userService.Post(userDto);
             if (response.Success)
@@ -57,7 +57,7 @@ namespace PruebaTecnica.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, UserDbAlterDto usuarioDto)
+        public async Task<IActionResult> Update(int id, UpdateUserDto usuarioDto)
         {
             var updatedUser = await _userService.Update(id, usuarioDto);
             return Ok(updatedUser);
