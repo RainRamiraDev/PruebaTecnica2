@@ -1,8 +1,8 @@
 ﻿namespace PruebaTecnica.Dto
 {
-    //Dto de modificacion de BD (Post,Put)
+    
 
-    public class UserDbAlterDto
+    public class UserDbAlterDto //Dto de modificacion de BD (Post,Put)
     {
         public string Nombre { get; set; } = null!;
 

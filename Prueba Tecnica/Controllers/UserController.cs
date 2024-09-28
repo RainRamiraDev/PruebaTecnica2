@@ -30,8 +30,6 @@ namespace PruebaTecnica.Controllers
             return BadRequest(response);
         }
 
-    
-
         [HttpGet("GetById/{id}")]
         public async Task<IActionResult> GetById(int id)
         {
@@ -62,7 +60,6 @@ namespace PruebaTecnica.Controllers
             var updatedUser = await _userService.Update(id, usuarioDto);
             return Ok(updatedUser);
         }
-
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)

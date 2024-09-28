@@ -1,7 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PruebaTecnica.Models;
-
-//using PruebaTecnica.Models;
 using System.Threading;
 
 namespace PruebaTecnica.Data;

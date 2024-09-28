@@ -11,7 +11,6 @@ namespace PruebaTecnica.Service
     public class UserService : IUserService
     {
 
-        
        private readonly IUserRepository _userRepository;
        private readonly IMapper _mapper;
 
@@ -20,8 +19,6 @@ namespace PruebaTecnica.Service
            _userRepository = userRepository;
            _mapper = mapper;
        }
-
-       
 
         public async Task<ApiResponse<List<UserDbReadDto>>> GetAll()
        {
@@ -47,8 +44,6 @@ namespace PruebaTecnica.Service
                return response;
            }
        }
-
-     
 
        public async Task<ApiResponse<UserDbReadDto>> GetById(int id)
        {

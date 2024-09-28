@@ -15,7 +15,6 @@ C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\PruebaTecnica.pdb
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\AutoMapper.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Humanizer.dll
-C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -30,8 +29,6 @@ C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\Mono.TextTemplating.dll
@@ -47,7 +44,6 @@ C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\System.Security.Permissions.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\System.Windows.Extensions.dll
@@ -130,3 +126,6 @@ C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\FluentValidation.dll
+C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Repositorios\Trabajo\Prueba Tecnica 2\PruebaTecnica2\Prueba Tecnica\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
