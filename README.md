@@ -2,7 +2,8 @@
 
 Te vamos a solicitar una prueba simple del stack tecnológico que se está utilizando en la empresa. Sabemos que actualmente no cuentas con conocimientos en todas estas tecnologías, pero es el puesto que necesitamos cubrir.
 
-**Crear una API en .NET utilizando algún patrón de diseño (Repository), Entity Framework y conectarse a una base de datos en MySQL. Si todo esto puede estar dockerizado, suma. En base a estas tecnologías, realizar un CRUD de usuarios con los campos ID, nombre, email, y password.**
+**Crear una API en .NET utilizando algún patrón de diseño (Repository), Entity Framework y conectarse a una base de datos en MySQL.
+En base a estas tecnologías, realizar un CRUD de usuarios con los campos ID, nombre, email, y password.**
 
 ## Preparación de la base de datos MySQL
 
