@@ -42,6 +42,7 @@ INSERT INTO usuarios (Nombre, Email, Contraseña)
 VALUES ('Ana Torres', 'ana.torres@mail.com', 'password4');
 
 ```
-## Modificar el Connection String en las variables globales de la API
+## Modificar el Connection String en las variables globales de la API en la carpeta Properties
 ```bash
+"ConnectionString": "Server=localhost;Database=pruebatecnica;User Id=INGRESAR TU USUARIO;Password=INGRESAR TU CONTRASEÑA;"
 
