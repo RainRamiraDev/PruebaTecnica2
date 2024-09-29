@@ -10,9 +10,6 @@ En base a estas tecnologías, realizar un CRUD de usuarios con los campos ID, no
 Sigue estos pasos para configurar la base de datos MySQL que será utilizada por la API.
 
    ```sql
--- Crear usuario
-CREATE USER 'user'@'localhost' IDENTIFIED BY '1234';
-
 -- Crear base de datos
 CREATE DATABASE pruebatecnica;
 
@@ -44,5 +41,7 @@ VALUES ('Carlos Lopez', 'carlos.lopez@mail.com', 'password3');
 INSERT INTO usuarios (Nombre, Email, Contraseña) 
 VALUES ('Ana Torres', 'ana.torres@mail.com', 'password4');
 
-INSERT INTO usuarios (Nombre, Email, Contraseña) 
-VALUES ('Pedro Sanchez', 'pedro.sanchez@mail.com', 'password5');
+```
+## Modificar el Connection String en las variables globales de la API
+```bash
+
