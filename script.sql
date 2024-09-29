@@ -1,12 +1,17 @@
+-- Crear usuario
 CREATE USER 'user'@'localhost' IDENTIFIED BY '1234';
 
+-- Crear base de datos
+CREATE DATABASE pruebatecnica;
+
+-- Otorgar privilegios al usuario sobre la base de datos
 GRANT ALL PRIVILEGES ON pruebatecnica.* TO 'user'@'localhost';
 FLUSH PRIVILEGES;
 
-CREATE DATABASE pruebatecnica;
-
+-- Usar la base de datos
 USE pruebatecnica;
 
+-- Crear tabla
 CREATE TABLE usuarios (
     Id INT AUTO_INCREMENT PRIMARY KEY,
     Nombre VARCHAR(15) NOT NULL,
@@ -14,6 +19,7 @@ CREATE TABLE usuarios (
     Contraseña VARCHAR(255) NOT NULL
 );
 
+-- Insertar datos en la tabla
 INSERT INTO usuarios (Nombre, Email, Contraseña) 
 VALUES ('Juan Perez', 'juan.perez@mail.com', 'password1');
 
