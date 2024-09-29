@@ -1,0 +1,41 @@
+﻿networks:
+    pruebatecnica-Api:
+
+services:
+  Usuarios-app:
+    image: mcr.microsoft.com/dotnet/aspnet:7.0
+    container_name: my_api_container
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - DB_HOST=db
+      - DB_NAME=pruebatecnica
+      - DB_USER=user
+      - DB_PASSWORD=1234
+    depends_on:
+      - db
+    networks:
+     - pruebatecnica-Api
+
+  db:
+    image: mysql:8.0
+    container_name: mysql_db_container
+    environment:
+      ACCEPT_EULA: "Y"
+      MYSQL_ROOT_PASSWORD: 1234
+      MYSQL_DATABASE: pruebatecnica
+      MYSQL_USER: user
+      MYSQL_PASSWORD: 1234
+    ports:
+      - "3307:3306"
+    volumes:
+      - db_data_new:/var/lib/mysql  
+    networks:
+     - pruebatecnica-Api
+
+volumes:
+  db_data_new: 

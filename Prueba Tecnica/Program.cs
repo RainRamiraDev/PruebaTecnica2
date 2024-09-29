@@ -16,12 +16,21 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 
-// Inclusion de MySql
+
+var dbUser = Environment.GetEnvironmentVariable("DB_USER") ?? "user";
+var dbName = Environment.GetEnvironmentVariable("DB_NAME") ?? "pruebatecnica"; // Default to your DB name
+var dbPassword = Environment.GetEnvironmentVariable("DB_PASSWORD") ?? "1234"; // Default to your DB password
+var dbPort = Environment.GetEnvironmentVariable("DB_PORT") ?? "3306"; // Cambiar a 3306
+
+var connectionString = $"Server=db;Database={dbName};User={dbUser};Password={dbPassword};Port={dbPort};";
+
 builder.Services.AddDbContext<ContextDb>(options =>
 {
-    options.UseMySql(builder.Configuration["ConnectionString"],
-                     new MySqlServerVersion(new Version(8, 0, 39)));
+    options.UseMySql(connectionString,
+        new MySqlServerVersion(new Version(8, 0, 39)),
+        mysqlOptions => mysqlOptions.EnableRetryOnFailure());
 });
+
 
 // Inclusion de  FluentValidation
 builder.Services.AddControllers()
@@ -50,12 +59,12 @@ if (app.Environment.IsDevelopment())
 
 
 
-app.UseCors(options =>
-{
-    options.AllowAnyHeader();
-    options.AllowAnyMethod();
-    options.AllowAnyOrigin();
-});
+//app.UseCors(options =>
+//{
+//    options.AllowAnyHeader();
+//    options.AllowAnyMethod();
+//    options.AllowAnyOrigin();
+//});
 
 
 app.UseHttpsRedirection();
