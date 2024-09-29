@@ -26,8 +26,8 @@ USE pruebatecnica;
 -- Crear tabla
 CREATE TABLE usuarios (
     Id INT AUTO_INCREMENT PRIMARY KEY,
-    Nombre VARCHAR(15) NOT NULL,
-    Email VARCHAR(15) NOT NULL,
+    Nombre VARCHAR(30) NOT NULL,
+    Email VARCHAR(30) NOT NULL,
     Contraseña VARCHAR(255) NOT NULL
 );
 
