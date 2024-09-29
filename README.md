@@ -10,19 +10,21 @@ En base a estas tecnologías, realizar un CRUD de usuarios con los campos ID, no
 Sigue estos pasos para configurar la base de datos MySQL que será utilizada por la API.
 
    ```sql
-   CREATE USER 'user'@'localhost' IDENTIFIED BY '1234';
-   
-   CREATE DATABASE pruebatecnica;
-   
-   USE pruebatecnica;
-   
-   CREATE TABLE usuarios (
+CREATE USER 'user'@'localhost' IDENTIFIED BY '1234';
+
+GRANT ALL PRIVILEGES ON pruebatecnica.* TO 'user'@'localhost';
+FLUSH PRIVILEGES;
+
+CREATE DATABASE pruebatecnica;
+
+USE pruebatecnica;
+
+CREATE TABLE usuarios (
     Id INT AUTO_INCREMENT PRIMARY KEY,
     Nombre VARCHAR(15) NOT NULL,
     Email VARCHAR(15) NOT NULL,
     Contraseña VARCHAR(255) NOT NULL
 );
-
 
 INSERT INTO usuarios (Nombre, Email, Contraseña) 
 VALUES ('Juan Perez', 'juan.perez@mail.com', 'password1');
@@ -38,4 +40,5 @@ VALUES ('Ana Torres', 'ana.torres@mail.com', 'password4');
 
 INSERT INTO usuarios (Nombre, Email, Contraseña) 
 VALUES ('Pedro Sanchez', 'pedro.sanchez@mail.com', 'password5');
+
 
