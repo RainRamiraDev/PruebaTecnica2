@@ -50,10 +50,6 @@ namespace PruebaTecnica.Repository
                 await _context.SaveChangesAsync();
             }
         }
-
-
-
-
         
     }
 }

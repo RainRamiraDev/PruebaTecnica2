@@ -39,7 +39,7 @@ namespace PruebaTecnica.Controllers
                 return Ok(response);
             }
 
-            return BadRequest(response);
+            return NotFound(new { message = "Usuario no encontrado" });
         }
 
         [HttpPost("Post")]
