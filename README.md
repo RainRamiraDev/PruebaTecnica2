@@ -20,7 +20,7 @@ Sigue estos pasos para configurar la base de datos MySQL que será utilizada por
     Id INT AUTO_INCREMENT PRIMARY KEY,
     Nombre VARCHAR(15) NOT NULL,
     Email VARCHAR(15) NOT NULL,
-    Contraseña VARCHAR(10) NOT NULL
+    Contraseña VARCHAR(255) NOT NULL
 );
 
 
