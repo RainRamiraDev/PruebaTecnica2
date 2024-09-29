@@ -42,7 +42,7 @@ INSERT INTO usuarios (Nombre, Email, Contraseña)
 VALUES ('Ana Torres', 'ana.torres@mail.com', 'password4');
 
 ```
-## Modificar el Connection String en las variables globales de la API en la carpeta Properties
+## Modificar el Connection String en las variables globales de la API en la carpeta [Properties](https://github.com/RainRamiraDev/PruebaTecnica2/blob/main/Prueba%20Tecnica/Properties/launchSettings.json)
 ```bash
 "ConnectionString": "Server=localhost;Database=pruebatecnica;User Id=INGRESAR TU USUARIO;Password=INGRESAR TU CONTRASEÑA;"
 
