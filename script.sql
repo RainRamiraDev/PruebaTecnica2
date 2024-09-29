@@ -1,16 +1,18 @@
 CREATE USER 'user'@'localhost' IDENTIFIED BY '1234';
-   
-   CREATE DATABASE pruebatecnica;
-   
-   USE pruebatecnica;
-   
-   CREATE TABLE usuarios (
+
+GRANT ALL PRIVILEGES ON pruebatecnica.* TO 'user'@'localhost';
+FLUSH PRIVILEGES;
+
+CREATE DATABASE pruebatecnica;
+
+USE pruebatecnica;
+
+CREATE TABLE usuarios (
     Id INT AUTO_INCREMENT PRIMARY KEY,
     Nombre VARCHAR(15) NOT NULL,
     Email VARCHAR(15) NOT NULL,
     Contraseña VARCHAR(255) NOT NULL
 );
-
 
 INSERT INTO usuarios (Nombre, Email, Contraseña) 
 VALUES ('Juan Perez', 'juan.perez@mail.com', 'password1');
