@@ -17,7 +17,7 @@
       "applicationUrl": "http://localhost:5182",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "ConnectionString": "Server=localhost;Database=pruebatecnica;User Id=user;Password=1234;"
+        "ConnectionString": "Server=localhost;Database=pruebatecnica;User Id=TEMPLATE USER;Password=TEMPLATE PASSWORD;"
       }
     },
     "https": {
@@ -28,7 +28,7 @@
       "applicationUrl": "https://localhost:7244;http://localhost:5182",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "ConnectionString": "Server=localhost;Database=pruebatecnica;User Id=user;Password=1234;"
+        "ConnectionString": "Server=localhost;Database=pruebatecnica;User Id=TEMPLATE USER;Password=TEMPLATE PASSWORD;"
       }
     },
     "IIS Express": {
@@ -37,7 +37,7 @@
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "ConnectionString": "Server=localhost;Database=pruebatecnica;User Id=user;Password=1234;"
+        "ConnectionString": "Server=localhost;Database=pruebatecnica;User Id=TEMPLATE USER;Password=TEMPLATE PASSWORD;"
       }
     }
   }
